@@ -17,4 +17,4 @@ def main(var):
     print(opt)
     print(type(opt))
 
-print(var)
+print(opt)
